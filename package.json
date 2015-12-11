@@ -1,0 +1,30 @@
+{
+  "name": "grunt-asset-baker",
+  "version": "0.0.1",
+  "description": "Grunt task for baking assets",
+  "main": "baker/baker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kptLucek/grunt-asset-baker.git"
+  },
+  "keywords": [
+    "asset",
+    "grunt",
+    "baker",
+    "css",
+    "less",
+    "js",
+    "scss",
+    "sass",
+    "font"
+  ],
+  "author": "kptLucek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kptLucek/grunt-asset-baker/issues"
+  },
+  "homepage": "https://github.com/kptLucek/grunt-asset-baker#readme"
+}
