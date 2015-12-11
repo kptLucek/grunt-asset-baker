@@ -1,7 +1,4 @@
-### Example user template template
-### Example user template
-
-# IntelliJ project files
+/npm-debug.log
 .idea
 *.ts
-# Created by .ignore support plugin (hsz.mobi)
+/node_modules
